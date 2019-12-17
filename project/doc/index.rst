@@ -8,6 +8,7 @@ GitHub Actions Test: project/doc
    :maxdepth: 2
 
    quickstart
+   drivers
 
 Indices and tables
 ==================
